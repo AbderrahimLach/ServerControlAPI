@@ -4,4 +4,7 @@ The API for ServerControl premium resource that allows you to interact with basi
 - MC-Market Page: https://www.mc-market.org/resources/15104/
 
 ## Contact
-If you have any questions regarding the resource or its api, please do not hesitate to contact me on Discord (DirectPlan#0564) or Telegram (@DirectPlan)
+If you have any questions regarding the resource or its api, please do not hesitate to contact me on Discord or Telegram
+
+- Discord: DirectPlan#0564
+- Telegram: DirectPlan
