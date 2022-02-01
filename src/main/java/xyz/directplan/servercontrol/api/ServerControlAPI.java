@@ -3,7 +3,7 @@ package xyz.directplan.servercontrol.api;
 import xyz.directplan.servercontrol.api.server.Server;
 import xyz.directplan.servercontrol.api.server.ServerData;
 
-import java.util.Set;
+import java.util.Collection;
 
 /**
  * @author DirectPlan
@@ -15,7 +15,7 @@ public interface ServerControlAPI {
      *
      * @return The {@link Server servers}.
      */
-    Set<Server> getServers();
+    Collection<Server> getServers();
 
     /**
      * Gets the server data from the specified {@link String id}. If the server is not found,
