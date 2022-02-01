@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/AbderrahimLach/ServerControlAPI.svg)](https://jitpack.io/#AbderrahimLach/ServerControlAPI)
+
 ## ServerControl API
 The API for ServerControl premium resource that allows you to interact with basic server operations. This API is useless if you don't have the resource purchased.
 
